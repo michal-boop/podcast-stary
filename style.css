@@ -94,7 +94,7 @@ button {
 }
 
 .image1 {
-    width: 400px;
+    width: 500px;
     flex: none;
     margin: 52px 0;
 }
@@ -124,6 +124,7 @@ button {
     display: flex;
     justify-content: center;
     align-items: flex-start;
+    flex-wrap: wrap;
 }
 
 .about_img {
